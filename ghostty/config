@@ -1,0 +1,18 @@
+theme = "brogrammer"
+
+font-size = 14
+font-family = "MesloLGS NF"
+
+selection-background = #1281D6
+selection-foreground = #03045e
+
+cursor-style = block
+cursor-style-blink = false
+
+background-opacity = 0.85
+background-blur-radius = 20
+
+shell-integration-features = no-cursor
+
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
